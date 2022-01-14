@@ -1,0 +1,177 @@
+/*mini Device Galaxy fold And Mini Phone*/
+@media screen and (max-width: 320px) {
+	/*Code Start Here*/
+	.navbar-nav {
+        margin: 25px 0px 0px 0px;
+	}
+
+	.header .navbar-light .navbar-nav .nav-link {
+		width: 110px;
+	}
+	.banner .banner-inner h1 {
+		font-size: 21px;
+		line-height: 30px;
+		margin: 45px 0px 15px 0px;
+	}
+
+	.banner{
+		padding: 20px 0px;
+	}
+
+	.banner .banner-inner p {
+		font-size: 13px;
+		line-height: 26px;
+	}
+
+	.button-groups .btn-primary {
+		padding: 15px 15px;
+	}
+
+	.button-groups .btn-info {
+		padding: 15px 14px;
+	}
+
+	.about-us img {
+		margin: 100px 0px 0px 35px;
+	}
+
+
+	/*Code End Here*/
+}
+
+
+/*All Mobile Device lg,mi,iphone,moto,*/
+@media screen and (max-width: 480px){
+	/*Code Start Here*/
+	.navbar-nav {
+        margin: 25px 0px 0px 0px;
+	}
+
+	.header .navbar-light .navbar-nav .nav-link {
+		width: 110px;
+	}
+	.banner .banner-inner h1 {
+		font-size: 24px;
+		line-height: 34px;
+		margin: 45px 0px 15px 0px;
+	}
+
+	.banner{
+		padding: 20px 0px;
+	}
+
+	.banner .banner-inner p {
+		font-size: 13px;
+		line-height: 26px;
+	}
+
+	.button-groups .btn-primary {
+		padding: 15px 15px;
+	}
+
+	.button-groups .btn-info {
+		padding: 15px 14px;
+	}
+
+	.about-us img {
+		margin: 101px 0px 0px 0px;
+	}
+	
+	/*Code End Here*/
+}
+
+
+/*All Tablet Device and serface Duo*/
+@media screen and (max-width: 768px){
+	/*Code Start Here*/
+
+	.navbar-nav {
+        margin: 25px 0px 0px 0px;
+	}
+
+	.header .navbar-light .navbar-nav .nav-link {
+		width: 110px;
+	}
+	.banner .banner-inner h1 {
+		font-size: 24px;
+		line-height: 34px;
+		margin: 45px 0px 15px 0px;
+	}
+
+	.banner{
+		padding: 20px 0px;
+	}
+
+	.banner .banner-inner p {
+		font-size: 13px;
+		line-height: 26px;
+	}
+
+	.button-groups .btn-primary {
+		padding: 15px 15px;
+	}
+
+	.button-groups .btn-info {
+		padding: 15px 14px;
+	}
+
+	.about-us img {
+		margin: 100px 0px 0px 38px;
+	}
+
+	.about-us p {
+		font-size: 13px;
+		line-height: 28px;
+	}
+
+	.map {
+		width: 100%;
+		margin: 0px 28px;
+	}
+
+	.map iframe {
+		margin-left: -28px;
+		padding: 0px;
+		width: 100%;
+	}
+	
+
+	/*Code End Here*/
+}
+
+
+/*All Laptop Desktop device*/
+@media screen and (max-width: 1024px){
+	/*Code Start Here*/
+	
+
+	.about-us h1 {
+		font-size: 37px;
+	}
+
+	.about-us p {
+		font-size: 12px;
+		line-height: 25px;
+	}
+
+	.portfolio-section h1 {
+		font-size: 35px;
+	}
+	
+	.banner .banner-inner p {
+		font-size: 12px;
+		line-height: 25px;
+	}
+
+	.button-groups .btn-primary {
+		padding: 15px 8px;
+	}
+
+	.button-groups .btn-info {
+		padding: 15px 8px;
+	}
+
+	
+
+	/*Code End Here*/
+}
